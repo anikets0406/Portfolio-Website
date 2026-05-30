@@ -1,0 +1,46 @@
+{
+  "timeline": [
+    {
+      "company": "COG Culture",
+      "role": "Graphic Designer",
+      "duration": "Apr 2026 — Present",
+      "location": "Gurugram",
+      "highlights": [
+        "Spearhead visual development of pitch decks and brand presentations driving client acquisition",
+        "Architect large-scale OOH advertising campaigns across multiple markets",
+        "Design targeted EDM and event communication assets for high-profile real estate campaigns"
+      ],
+      "current": true
+    },
+    {
+      "company": "Cygnett Hotels",
+      "role": "Graphic Designer",
+      "duration": "Mar 2025 — Apr 2026",
+      "location": "Gurugram",
+      "highlights": [
+        "Drove daily social media creative output elevating brand engagement across pan-India properties",
+        "Orchestrated WhatsApp marketing campaigns for seasonal promotions",
+        "Established sub-brand visual identity systems with brand manuals and stationery"
+      ],
+      "current": false
+    },
+    {
+      "company": "Yutrp",
+      "role": "Graphic Designer",
+      "duration": "Dec 2023 — Sep 2024",
+      "location": "Gurugram",
+      "highlights": [
+        "Delivered high-performing social media creatives for multiple client brands",
+        "Produced Reels covers, promotional post series, and video promos",
+        "Boosted client content performance across platforms through visual storytelling"
+      ],
+      "current": false
+    }
+  ],
+  "education": {
+    "degree": "B.Sc Animation and VFX",
+    "university": "Asian Academy of Film and Television",
+    "location": "Noida",
+    "duration": "Aug 2022 — Jul 2025"
+  }
+}

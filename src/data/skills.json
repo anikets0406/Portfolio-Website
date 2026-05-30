@@ -1,0 +1,35 @@
+{
+  "skills": {
+    "design": [
+      { "name": "Social Media Ads", "level": 95 },
+      { "name": "Branding", "level": 90 },
+      { "name": "Stationery Design", "level": 85 },
+      { "name": "Presentations", "level": 90 },
+      { "name": "OOH Advertising", "level": 80 },
+      { "name": "EDM Design", "level": 85 }
+    ],
+    "motion": [
+      { "name": "Motion Graphics", "level": 75 },
+      { "name": "Reels Creation", "level": 85 },
+      { "name": "Logo Animation", "level": 70 }
+    ],
+    "ai": [
+      { "name": "Image Generation", "level": 70 },
+      { "name": "Video Generation", "level": 60 },
+      { "name": "Visual Enhancement", "level": 75 }
+    ],
+    "campaign": [
+      { "name": "Social Campaigns", "level": 90 },
+      { "name": "WhatsApp Marketing", "level": 85 },
+      { "name": "Event Collaterals", "level": 80 }
+    ]
+  },
+  "software": [
+    { "name": "Adobe Photoshop", "icon": "photo" },
+    { "name": "Adobe Illustrator", "icon": "pen-tool" },
+    { "name": "Adobe After Effects", "icon": "video" },
+    { "name": "Adobe Premiere Pro", "icon": "film" },
+    { "name": "Figma", "icon": "figma" },
+    { "name": "Canva", "icon": "layout" }
+  ]
+}

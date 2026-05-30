@@ -1,0 +1,186 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Premium Real Estate Campaign",
+      "category": "Branding",
+      "thumbnail": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&h=400&fit=crop",
+      "description": "Full sales pitch, social media branding, event invitations, hoardings, print & digital ads for a premium real estate client",
+      "client_type": "Real Estate",
+      "tools": ["Adobe Photoshop", "Illustrator", "Figma"],
+      "challenge": "Create a visual system that conveys luxury without feeling cold or inaccessible, while maintaining cross-platform consistency.",
+      "solution": "Used warm photography with bold typography, balancing premium feel with human approachability. Developed a cohesive system that scales from social posts to OOH hoardings.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&h=600&fit=crop"
+      ],
+      "views": 156
+    },
+    {
+      "id": "2",
+      "title": "Cygnett Hotels — Multi-Unit Design",
+      "category": "Branding",
+      "thumbnail": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=600&h=400&fit=crop",
+      "description": "End-to-end creative output across multiple hotel units — offer creatives, digital ads, menus, stationery, and print materials",
+      "client_type": "Hospitality",
+      "tools": ["Adobe Photoshop", "Illustrator", "Premiere Pro"],
+      "challenge": "Manage consistent brand identity across a pan-India hospitality brand with multiple properties, each with unique requirements.",
+      "solution": "Established a flexible design system with core brand guidelines while allowing room for each property's character. Created modular templates for quick turnaround.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+        "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&h=600&fit=crop"
+      ],
+      "views": 89
+    },
+    {
+      "id": "3",
+      "title": "Sales Pitch Deck",
+      "category": "Presentations",
+      "thumbnail": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+      "description": "Executive-level brand presentations deployed in internal leadership reviews and client-facing pitches",
+      "client_type": "Corporate",
+      "tools": ["Adobe Illustrator", "Figma"],
+      "challenge": "Translate complex brand strategy into clear, compelling visuals that secure client buy-in and internal alignment.",
+      "solution": "Structured narratives with clear visual hierarchy. Used data visualization and bold iconography to make abstract concepts tangible.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&h=600&fit=crop"
+      ],
+      "views": 77
+    },
+    {
+      "id": "4",
+      "title": "Google & Meta Ad Campaigns",
+      "category": "Advertising",
+      "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "description": "Targeted digital advertising campaigns for multiple real estate and hospitality brands across Google and Meta platforms",
+      "client_type": "Advertising",
+      "tools": ["Adobe Photoshop", "Illustrator"],
+      "challenge": "Create scroll-stopping creatives that communicate value propositions in seconds while maintaining brand consistency.",
+      "solution": "Developed A/B tested creative variants with clear value propositions, strong CTAs, and platform-optimized specifications.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop"
+      ],
+      "views": 55
+    },
+    {
+      "id": "5",
+      "title": "EDM & Email Campaigns",
+      "category": "Email Marketing",
+      "thumbnail": "https://images.unsplash.com/photo-1557200134-90327ee9fafa?w=600&h=400&fit=crop",
+      "description": "Sales EDMs and event communication assets designed for high-profile real estate campaigns and property launches",
+      "client_type": "Real Estate",
+      "tools": ["Adobe Photoshop", "Illustrator"],
+      "challenge": "Design emails that cut through crowded inboxes and drive action, while rendering well across email clients and devices.",
+      "solution": "Created modular email templates with clear hierarchy, strategic use of white space, and compelling CTA placement. Optimized for both desktop and mobile.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1557200134-90327ee9fafa?w=800&h=600&fit=crop"
+      ],
+      "views": 33
+    },
+    {
+      "id": "6",
+      "title": "Social Media Creatives",
+      "category": "Social Media",
+      "thumbnail": "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=600&h=400&fit=crop",
+      "description": "High-performing social media creatives including Reels covers, promotional post series, and video promos",
+      "client_type": "Multi-industry",
+      "tools": ["Adobe Photoshop", "After Effects", "Premiere Pro"],
+      "challenge": "Produce thumb-stopping content that drives engagement while maintaining brand voice across diverse client industries.",
+      "solution": "Developed platform-specific content strategies with cohesive visual languages. Created dynamic templates for rapid content production.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=800&h=600&fit=crop"
+      ],
+      "views": 45
+    },
+    {
+      "id": "7",
+      "title": "Event & Wedding Invitations",
+      "category": "Event Design",
+      "thumbnail": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=600&h=400&fit=crop",
+      "description": "Elegant event invitations and save-the-date designs for real estate and hospitality events",
+      "client_type": "Events",
+      "tools": ["Adobe Illustrator", "Photoshop"],
+      "challenge": "Create premium-feeling invitations that set the tone for high-end events while communicating essential information clearly.",
+      "solution": "Balanced sophisticated typography with elegant illustrations. Used premium paper-ready layouts that translate across print and digital formats.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=800&h=600&fit=crop"
+      ],
+      "views": 22
+    },
+    {
+      "id": "8",
+      "title": "F&B Promotion Creatives",
+      "category": "Hospitality",
+      "thumbnail": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&h=400&fit=crop",
+      "description": "Appetizing promotion creatives for hotel restaurants and F&B properties",
+      "client_type": "Food & Beverage",
+      "tools": ["Adobe Photoshop", "Lightroom"],
+      "challenge": "Make food look irresistible while maintaining brand consistency and driving conversion.",
+      "solution": "Applied food photography styling principles along with strategic color grading. Created urgency through compelling offers and clear CTAs.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&h=600&fit=crop"
+      ],
+      "views": 55
+    },
+    {
+      "id": "9",
+      "title": "Mockup & Product Visualizations",
+      "category": "Product Design",
+      "thumbnail": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=600&h=400&fit=crop",
+      "description": "Realistic mockups and product visualizations for brand presentations and client pitches",
+      "client_type": "Various",
+      "tools": ["Adobe Photoshop", "Illustrator"],
+      "challenge": "Create realistic mockups that help clients visualize final deliverables before production.",
+      "solution": "Developed a library of smart mockup templates with proper lighting, shadows, and perspective. Ensured files are easily customizable.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=600&fit=crop"
+      ],
+      "views": 33
+    },
+    {
+      "id": "10",
+      "title": "OOH Advertising Campaigns",
+      "category": "Advertising",
+      "thumbnail": "https://images.unsplash.com/photo-1505459668311-8dfac7952bf0?w=600&h=400&fit=crop",
+      "description": "Large-scale hoarding and billboard advertising for property launches and brand campaigns",
+      "client_type": "Real Estate",
+      "tools": ["Adobe Illustrator", "Photoshop"],
+      "challenge": "Design for massive scale while keeping messages clear and impactful from varying distances and angles.",
+      "solution": "Applied bold typography hierarchy, simplified compositions, and high-contrast color schemes optimized for outdoor readability.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1505459668311-8dfac7952bf0?w=800&h=600&fit=crop"
+      ],
+      "views": 42
+    },
+    {
+      "id": "11",
+      "title": "WhatsApp Marketing Campaigns",
+      "category": "Marketing",
+      "thumbnail": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?w=600&h=400&fit=crop",
+      "description": "Seasonal promotion campaigns designed for WhatsApp marketing, driving revenue for hotel properties",
+      "client_type": "Hospitality",
+      "tools": ["Adobe Photoshop", "Canva"],
+      "challenge": "Create platform-native content that engages without overwhelming, designed for personal messaging contexts.",
+      "solution": "Developed conversation-style designs with personal touches. Created segmented campaigns for different audience personas.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?w=800&h=600&fit=crop"
+      ],
+      "views": 38
+    },
+    {
+      "id": "12",
+      "title": "Logo & Brand Identity Systems",
+      "category": "Branding",
+      "thumbnail": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&h=400&fit=crop",
+      "description": "Sub-brand visual identity systems including brand manuals and stationery design",
+      "client_type": "Corporate",
+      "tools": ["Adobe Illustrator", "Figma"],
+      "challenge": "Develop cohesive brand systems that scale across touchpoints while allowing flexibility for sub-brands.",
+      "solution": "Created comprehensive brand guidelines with clear usage rules, color palettes, and typography systems. Built modular component libraries.",
+      "gallery": [
+        "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=800&h=600&fit=crop"
+      ],
+      "views": 41
+    }
+  ]
+}
