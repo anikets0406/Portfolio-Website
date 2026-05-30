@@ -63,17 +63,17 @@ export default function Contact() {
           </a>
         </div>
 
-       {/* Contact Cards */}
-<div className="stagger-children flex flex-row gap-6 mb-16 justify-center items-stretch">
+      {/* Contact Cards */}
+<div className="stagger-children flex flex-col sm:flex-row flex-wrap gap-4 md:gap-6 mb-16 justify-center items-center">
 
   {/* Email Card */}
   <a
     href="mailto:aniket1.singh8464@gmail.com"
-    className="reveal glass border border-borderSubtle rounded-2xl p-8 hover:border-ember/30 transition-all duration-500 group w-[340px] text-center flex-shrink-0"
+    className="reveal glass border border-borderSubtle rounded-2xl p-5 md:p-8 hover:border-ember/30 transition-all duration-500 group w-full max-w-[340px] text-center"
   >
-    <div className="w-14 h-14 mx-auto mb-4 rounded-xl bg-ember/20 flex items-center justify-center group-hover:bg-ember/30 transition-colors">
+    <div className="w-12 h-12 md:w-14 md:h-14 mx-auto mb-4 rounded-xl bg-ember/20 flex items-center justify-center group-hover:bg-ember/30 transition-colors">
       <svg
-        className="w-7 h-7 text-ember"
+        className="w-6 h-6 md:w-7 md:h-7 text-ember"
         fill="none"
         stroke="currentColor"
         viewBox="0 0 24 24"
@@ -91,7 +91,7 @@ export default function Contact() {
       Email
     </p>
 
-    <p className="font-heading font-bold text-white mt-2 break-words">
+    <p className="font-heading font-bold text-white mt-2 break-all text-sm md:text-base">
       aniket1.singh8464@gmail.com
     </p>
   </a>
@@ -99,11 +99,11 @@ export default function Contact() {
   {/* Phone Card */}
   <a
     href="tel:+919560500849"
-    className="reveal glass border border-borderSubtle rounded-2xl p-8 hover:border-ember/30 transition-all duration-500 group w-[340px] text-center flex-shrink-0"
+    className="reveal glass border border-borderSubtle rounded-2xl p-5 md:p-8 hover:border-ember/30 transition-all duration-500 group w-full max-w-[340px] text-center"
   >
-    <div className="w-14 h-14 mx-auto mb-4 rounded-xl bg-ember/20 flex items-center justify-center group-hover:bg-ember/30 transition-colors">
+    <div className="w-12 h-12 md:w-14 md:h-14 mx-auto mb-4 rounded-xl bg-ember/20 flex items-center justify-center group-hover:bg-ember/30 transition-colors">
       <svg
-        className="w-7 h-7 text-ember"
+        className="w-6 h-6 md:w-7 md:h-7 text-ember"
         fill="none"
         stroke="currentColor"
         viewBox="0 0 24 24"
@@ -121,7 +121,7 @@ export default function Contact() {
       Phone
     </p>
 
-    <p className="font-heading font-bold text-white mt-2">
+    <p className="font-heading font-bold text-white mt-2 text-sm md:text-base">
       +91 9560500849
     </p>
   </a>
@@ -131,11 +131,11 @@ export default function Contact() {
     href="https://www.behance.net/aniketsingh70"
     target="_blank"
     rel="noopener noreferrer"
-    className="reveal glass border border-borderSubtle rounded-2xl p-8 hover:border-ember/30 transition-all duration-500 group w-[340px] text-center flex-shrink-0"
+    className="reveal glass border border-borderSubtle rounded-2xl p-5 md:p-8 hover:border-ember/30 transition-all duration-500 group w-full max-w-[340px] text-center"
   >
-    <div className="w-14 h-14 mx-auto mb-4 rounded-xl bg-ember/20 flex items-center justify-center group-hover:bg-ember/30 transition-colors">
+    <div className="w-12 h-12 md:w-14 md:h-14 mx-auto mb-4 rounded-xl bg-ember/20 flex items-center justify-center group-hover:bg-ember/30 transition-colors">
       <svg
-        className="w-7 h-7 text-ember"
+        className="w-6 h-6 md:w-7 md:h-7 text-ember"
         fill="none"
         stroke="currentColor"
         viewBox="0 0 24 24"
@@ -153,7 +153,7 @@ export default function Contact() {
       Portfolio
     </p>
 
-    <p className="font-heading font-bold text-white mt-2">
+    <p className="font-heading font-bold text-white mt-2 text-sm md:text-base">
       Behance Profile
     </p>
   </a>

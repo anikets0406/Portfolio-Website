@@ -13,8 +13,8 @@ const projects: Project[] = [
     id: 1,
     title: 'Sales Pitch Deck',
     category: 'Business',
-    link: 'https://www.behance.net/gallery/250021729/Sales-Pitch-Deck',
-     image: '/projects/project1.jpg',
+    link: 'https://www.behancet.net/gallery/250021729/Sales-Pitch-Deck',
+     image: "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
   },
   {
     id: 2,
