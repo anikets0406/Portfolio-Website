@@ -21,7 +21,7 @@ export default function ProjectCard({ project, index, onClick }: ProjectCardProp
         {/* Thumbnail */}
         <div className="relative aspect-[4/3] overflow-hidden">
           <motion.img
-            src={project.thumbnail}
+            src={project.image}
             alt={project.title}
             className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105"
             loading="lazy"
@@ -51,7 +51,7 @@ export default function ProjectCard({ project, index, onClick }: ProjectCardProp
 
           {/* Description */}
           <p className="text-warmGray text-sm leading-relaxed line-clamp-2">
-            {project.description}
+            {project.category}
           </p>
 
           {/* View Link */}
