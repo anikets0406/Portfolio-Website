@@ -14,7 +14,7 @@ const projects: Project[] = [
     title: 'Sales Pitch Deck',
     category: 'Business',
     link: 'https://www.behancet.net/gallery/250021729/Sales-Pitch-Deck',
-     image: '/projects/project1v2.jpg',
+     image: '/projects/salespitch.jpg',
   },
   {
     id: 2,
