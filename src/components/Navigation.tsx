@@ -125,12 +125,12 @@ export default function Navigation() {
               </a>
             ))}
             <a
-              href="https://www.behance.net/aniketsingh70"
+              href="https://www.linkedin.com/in/aniket-singh-a1814b249/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-4 bg-ember text-white font-heading font-bold text-xl rounded-full hover:bg-white hover:text-void transition-all duration-300"
             >
-              Behance Profile
+              LinkedIn
             </a>
           </div>
         </div>

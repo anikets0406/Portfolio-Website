@@ -128,7 +128,7 @@ export default function Contact() {
 
   {/* Portfolio Card */}
   <a
-    href="https://www.behance.net/aniketsingh70"
+    href="https://www.linkedin.com/in/aniket-singh-a1814b249/"
     target="_blank"
     rel="noopener noreferrer"
     className="reveal glass border border-borderSubtle rounded-2xl p-5 md:p-8 hover:border-ember/30 transition-all duration-500 group w-full max-w-[340px] text-center"
@@ -150,11 +150,11 @@ export default function Contact() {
     </div>
 
     <p className="font-sub text-silver group-hover:text-white transition-colors">
-      Portfolio
+      Connect
     </p>
 
     <p className="font-heading font-bold text-white mt-2 text-sm md:text-base">
-      Behance Profile
+      LinkedIn
     </p>
   </a>
 

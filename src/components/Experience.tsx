@@ -3,7 +3,7 @@ import { useEffect, useRef } from 'react';
 const timelineData = [
   {
     period: 'April 2026 – Present',
-    company: 'COG Culture',
+    company: 'Freelance',
     role: 'Graphic Designer',
     location: 'Gurugram',
     isCurrent: true,
